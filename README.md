@@ -6,6 +6,7 @@ I built this as a fast, minimal tool to preview 3D models without unneccesary ov
 
 # 🛠️ What it Does
 * Loads, parses, and renders `.obj` and `.gLTF` 3D models
+* Drag and drop, click to open, and command line support for faster opening
 * Automatically fits the model within the viewport
 * Rotates the model smoothly to get a surround view
 * Utilizes wGPU for fast rendering
